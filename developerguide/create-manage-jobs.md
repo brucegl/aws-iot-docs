@@ -62,7 +62,7 @@ Your `aws:SourceArn` must comply with the format: `arn:aws:iot:region:account-id
 
    ```
    {
-     "Effect": "Allow",
+     "Version": "2012-10-17",
      "Statement": [
        {
          "Effect": "Allow",
